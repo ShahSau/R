@@ -1,1 +1,1 @@
-# R data science project either from Datacamp or from other courses or own projects
+# R data science projects. Datas are either from Datacamp or from other sources.
