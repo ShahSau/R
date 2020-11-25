@@ -1,1 +1,2 @@
-# R data science projects from datacamp.
+# Data science projects  using R.
+from datacamp.
