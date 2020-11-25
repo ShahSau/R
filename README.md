@@ -1,2 +1,2 @@
 # Data science projects  using R.
-from datacamp.
+Data for the projects are collected from datacamp.
